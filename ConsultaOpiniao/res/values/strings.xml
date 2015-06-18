@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConsultaOpiniao</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Consulta de Opinião</string>
+    <string name="tvCodigo">Digite o código do usuário:</string>
+    <string name="tvNome">Digite o seu nome:</string>
+    <string name="tvLocal">Digite o nome do local:</string>
+    <string name="tvAtendimento">Como você foi atendido?</string>
+    <string name="btLocalizacao">Obter sua localização</string>
+    <string name="btEnviar">Enviar dados</string>
+    <string name="title_activity_atividade_estabelecimento">AtividadeEstabelecimento</string>
+
+</resources>
