@@ -350,7 +350,7 @@ public class AtividadeOSM extends Activity {
 		Log.i("Distancia", "Local B: " +locationB.toString());
 		float distanciaUsuarioEstabelecimento = locationA.distanceTo(locationB);
 		Log.i("Distancia", "Cálculo " +distanciaUsuarioEstabelecimento);
-		if(distanciaUsuarioEstabelecimento < 1000){
+		if(distanciaUsuarioEstabelecimento < 100){
 			return true;
 		} else {
 			return false;	

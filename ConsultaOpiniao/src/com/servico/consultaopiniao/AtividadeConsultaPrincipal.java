@@ -126,7 +126,9 @@ public class AtividadeConsultaPrincipal extends Activity{
 					/* Solicita se o usuário existe */
 					try{
 						String urlCadastraUsuarios;
-						urlCadastraUsuarios = VariaveisFinais.urlCadastraUsuarios + etNomeDigitado.getText().toString() + "&cpf=" + etCPFDigitado.getText().toString() + "&senha=" + etSenhaDigitada.getText().toString() + "&email=" + etEmailDigitado.getText().toString();
+						String nomeSemEpaco = etNomeDigitado.getText().toString();
+						nomeSemEpaco = nomeSemEpaco.replaceAll(" ", "%20");
+						urlCadastraUsuarios = VariaveisFinais.urlCadastraUsuarios + nomeSemEpaco + "&cpf=" + etCPFDigitado.getText().toString() + "&senha=" + etSenhaDigitada.getText().toString() + "&email=" + etEmailDigitado.getText().toString();
 						cadastraUsuario = ConexaoHttpClient.executaHttpGet(urlCadastraUsuarios);
 						String sucesso = cadastraUsuario.toString();
 						String erro = sucesso;
