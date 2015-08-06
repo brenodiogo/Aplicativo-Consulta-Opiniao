@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\breno.camargos\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\breno.camargos\Documents\Projetos\ConsultaOpiniao\ConsultaOpiniaoAndroidStudio\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-19ba91af94ba61e494c2cc192a2442fd72c04bd9.jar" />
+    </item>
+    <item
+        jar="C:\Users\breno.camargos\Documents\Projetos\ConsultaOpiniao\ConsultaOpiniaoAndroidStudio\app\libs\slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="C:\Users\breno.camargos\Documents\Projetos\ConsultaOpiniao\ConsultaOpiniaoAndroidStudio\app\build\intermediates\pre-dexed\debug\slf4j-android-1.6.1-RC1-58ed4d8f361d25beaccbf95ed5f939efa510a358.jar" />
+    </item>
+    <item
+        jar="C:\Users\breno.camargos\Documents\Projetos\ConsultaOpiniao\ConsultaOpiniaoAndroidStudio\app\libs\osmdroid-android-4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3a0c73a9ed04a5d0959789c53da9f08462bfcc2">
+        <dex dex="C:\Users\breno.camargos\Documents\Projetos\ConsultaOpiniao\ConsultaOpiniaoAndroidStudio\app\build\intermediates\pre-dexed\debug\osmdroid-android-4.2-e06b694ab916574485a8f67d8af4b4a75986858a.jar" />
+    </item>
+    <item
+        jar="C:\Users\breno.camargos\Documents\Projetos\ConsultaOpiniao\ConsultaOpiniaoAndroidStudio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\breno.camargos\Documents\Projetos\ConsultaOpiniao\ConsultaOpiniaoAndroidStudio\app\build\intermediates\pre-dexed\debug\classes-9e3bce0f13ffa452fe21b52d16e230337c372559.jar" />
+    </item>
+    <item
+        jar="C:\Users\breno.camargos\Documents\Projetos\ConsultaOpiniao\ConsultaOpiniaoAndroidStudio\app\libs\osmbonuspack_v4.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b893939458cdb7c6bdb377d8acfb994a57433fc">
+        <dex dex="C:\Users\breno.camargos\Documents\Projetos\ConsultaOpiniao\ConsultaOpiniaoAndroidStudio\app\build\intermediates\pre-dexed\debug\osmbonuspack_v4.9-cddc9e040c688acea9fd0392b3af6c159b85eb38.jar" />
+    </item>
+
+</items>
